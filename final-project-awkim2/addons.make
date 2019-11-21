@@ -1,0 +1,3 @@
+ofxGui
+ofxUnitTests
+ofxVectorGraphics
